@@ -10,8 +10,11 @@ _Preprocessing:_ XDBA performs dimensionality reduction and clustering to associ
 
 _Interpretation:_ In the stationary implementation, local explanations are extracted using HiResCAM (and partitioning the resultant space among the K behaviors the individual exhibited) and global explanations are extracted through feature permutations (where the opacity of the permuted behavior is shuffled and its effect on class-specific accuracy computed). In the sequential implementation, local explanations are extracted using layerwise-relevance propagation, and global explanations are extracted using HiResCAM (as the convolutional backbone becomes a global feature extractor).
 
-![XDBA Flowchart](https://github.com/EldadTalShir/XDBA/blob/main/misc/XDBA_flowchart.png?raw=true "Title")
+![XDBA Flowchart](https://github.com/EldadTalShir/XDBA/blob/main/misc/XDBA_flowchart.png?raw=true)
 
 ## Citation
 Eldad Tal-Shir, Alex Mintz, Michael Cohen
-_Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks_.
+_Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks_. 2023.
+
+## License
+The MIT License. See the [license file](https://github.com/EldadTalShir/XDBA/blob/main/LICENSE) for information.
