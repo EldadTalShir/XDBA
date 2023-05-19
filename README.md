@@ -13,4 +13,4 @@ _Interpretation:_ In the stationary implementation, local explanations are extra
 
 # Reference
 Eldad Tal-Shir, Alex Mintz, Michael Cohen
-_Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks_
+_Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks_.
