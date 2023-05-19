@@ -1,0 +1,94 @@
+pid,alt_chosen,num_viewed,info_acquisitions,time
+341,3,59,"info_item_1, info_item_2, info_item_3, info_item_4, info_item_5, info_item_6, info_item_7, info_item_8, info_item_9, info_item_10, info_item_15, info_item_11, info_item_12, info_item_13, info_item_14, info_item_15, info_item_13, info_item_16, info_item_17, info_item_18, info_item_19, info_item_20, info_item_2, info_item_18, info_item_14, info_item_10, info_item_6, info_item_2, info_item_5, info_item_6, info_item_7, info_item_9, info_item_5, info_item_10, info_item_6, info_item_11, info_item_7, info_item_5, info_item_6, info_item_19, info_item_18, info_item_17, info_item_9, info_item_5, info_item_1, info_item_5, info_item_5, info_item_9, info_item_13, info_item_17, info_item_3, info_item_7, info_item_11, info_item_15, info_item_3, info_item_7, info_item_11, info_item_19, info_item_17",599
+342,3,3,"info_item_3, info_item_1, info_item_5",149
+343,3,18,"info_item_7, info_item_11, info_item_15, info_item_19, info_item_3, info_item_10, info_item_6, info_item_2, info_item_14, info_item_8, info_item_8, info_item_12, info_item_16, info_item_20, info_item_12, info_item_8, info_item_7, info_item_11",223
+344,2,17,"info_item_2, info_item_18, info_item_14, info_item_10, info_item_13, info_item_17, info_item_9, info_item_5, info_item_1, info_item_7, info_item_6, info_item_8, info_item_3, info_item_2, info_item_6, info_item_10, info_item_14",104
+345,3,5,"info_item_3, info_item_7, info_item_11, info_item_15, info_item_19",144
+346,3,28,"info_item_1, info_item_2, info_item_3, info_item_4, info_item_5, info_item_6, info_item_7, info_item_8, info_item_9, info_item_10, info_item_11, info_item_12, info_item_13, info_item_14, info_item_15, info_item_16, info_item_17, info_item_18, info_item_19, info_item_20, info_item_16, info_item_12, info_item_19, info_item_15, info_item_3, info_item_7, info_item_11, info_item_9",297
+347,2,3,"info_item_2, info_item_1, info_item_14",139
+348,3,21,"info_item_1, info_item_5, info_item_9, info_item_13, info_item_17, info_item_2, info_item_6, info_item_10, info_item_14, info_item_18, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19, info_item_4, info_item_8, info_item_12, info_item_16, info_item_20, info_item_15",127
+349,3,15,"info_item_2, info_item_2, info_item_19, info_item_9, info_item_10, info_item_11, info_item_12, info_item_13, info_item_14, info_item_15, info_item_16, info_item_7, info_item_3, info_item_15, info_item_19",177
+350,3,8,"info_item_13, info_item_1, info_item_9, info_item_17, info_item_18, info_item_20, info_item_3, info_item_19",105
+351,2,2,"info_item_2, info_item_6",115
+352,3,18,"info_item_3, info_item_7, info_item_11, info_item_19, info_item_16, info_item_15, info_item_20, info_item_8, info_item_4, info_item_1, info_item_5, info_item_9, info_item_13, info_item_14, info_item_2, info_item_6, info_item_10, info_item_18",200
+353,1,20,"info_item_1, info_item_5, info_item_9, info_item_13, info_item_17, info_item_2, info_item_6, info_item_10, info_item_14, info_item_18, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19, info_item_4, info_item_8, info_item_12, info_item_16, info_item_20",309
+354,3,4,"info_item_3, info_item_7, info_item_10, info_item_14",71
+355,3,19,"info_item_11, info_item_2, info_item_5, info_item_1, info_item_16, info_item_2, info_item_6, info_item_10, info_item_18, info_item_1, info_item_5, info_item_9, info_item_13, info_item_17, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19",396
+359,3,11,"info_item_3, info_item_3, info_item_5, info_item_5, info_item_6, info_item_5, info_item_6, info_item_7, info_item_8, info_item_5, info_item_9",123
+360,2,5,"info_item_7, info_item_7, info_item_7, info_item_7, info_item_7",221
+362,2,2,"info_item_6, info_item_6",296
+363,3,21,"info_item_1, info_item_5, info_item_9, info_item_13, info_item_17, info_item_2, info_item_6, info_item_10, info_item_14, info_item_14, info_item_18, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19, info_item_4, info_item_4, info_item_12, info_item_16, info_item_20",163
+374,1,8,"info_item_6, info_item_6, info_item_5, info_item_13, info_item_14, info_item_15, info_item_16, info_item_13",153
+379,3,20,"info_item_3, info_item_18, info_item_17, info_item_19, info_item_20, info_item_13, info_item_14, info_item_15, info_item_16, info_item_9, info_item_10, info_item_11, info_item_12, info_item_5, info_item_6, info_item_7, info_item_8, info_item_1, info_item_2, info_item_3",187
+380,3,5,"info_item_3, info_item_7, info_item_11, info_item_15, info_item_19",244
+381,3,2,"info_item_3, info_item_11",153
+383,2,12,"info_item_1, info_item_13, info_item_17, info_item_18, info_item_13, info_item_14, info_item_9, info_item_10, info_item_5, info_item_6, info_item_1, info_item_2",248
+384,2,9,"info_item_1, info_item_2, info_item_3, info_item_6, info_item_18, info_item_6, info_item_19, info_item_6, info_item_18",299
+386,3,8,"info_item_3, info_item_7, info_item_15, info_item_19, info_item_14, info_item_18, info_item_19, info_item_10",148
+387,1,15,"info_item_6, info_item_5, info_item_13, info_item_18, info_item_19, info_item_14, info_item_15, info_item_16, info_item_7, info_item_11, info_item_13, info_item_9, info_item_5, info_item_7, info_item_8",291
+388,2,2,"info_item_2, info_item_10",138
+390,1,8,"info_item_9, info_item_15, info_item_3, info_item_5, info_item_13, info_item_13, info_item_9, info_item_19",148
+391,1,17,"info_item_1, info_item_1, info_item_2, info_item_18, info_item_17, info_item_11, info_item_7, info_item_19, info_item_17, info_item_9, info_item_5, info_item_7, info_item_13, info_item_15, info_item_14, info_item_6, info_item_5",290
+392,3,5,"info_item_1, info_item_5, info_item_3, info_item_7, info_item_15",174
+396,2,25,"info_item_2, info_item_6, info_item_6, info_item_10, info_item_14, info_item_18, info_item_1, info_item_5, info_item_9, info_item_13, info_item_17, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19, info_item_4, info_item_8, info_item_12, info_item_16, info_item_20, info_item_6, info_item_18, info_item_17, info_item_13",275
+416,4,15,"info_item_2, info_item_6, info_item_10, info_item_14, info_item_18, info_item_1, info_item_7, info_item_9, info_item_19, info_item_1, info_item_18, info_item_2, info_item_4, info_item_10, info_item_6",7591
+432,2,5,"info_item_6, info_item_3, info_item_13, info_item_10, info_item_2",298
+433,3,20,"info_item_6, info_item_10, info_item_2, info_item_3, info_item_7, info_item_11, info_item_19, info_item_4, info_item_8, info_item_1, info_item_5, info_item_9, info_item_15, info_item_11, info_item_7, info_item_3, info_item_2, info_item_6, info_item_10, info_item_18",246
+434,2,2,"info_item_6, info_item_2",162
+435,1,19,"info_item_1, info_item_5, info_item_5, info_item_5, info_item_5, info_item_9, info_item_1, info_item_1, info_item_1, info_item_5, info_item_9, info_item_1, info_item_1, info_item_5, info_item_5, info_item_5, info_item_5, info_item_1, info_item_5",281
+436,3,7,"info_item_5, info_item_2, info_item_6, info_item_10, info_item_3, info_item_13, info_item_15",138
+437,3,19,"info_item_3, info_item_3, info_item_7, info_item_11, info_item_11, info_item_15, info_item_19, info_item_2, info_item_6, info_item_7, info_item_10, info_item_11, info_item_14, info_item_18, info_item_17, info_item_1, info_item_5, info_item_7, info_item_8",264
+438,3,4,"info_item_11, info_item_19, info_item_7, info_item_3",143
+439,3,8,"info_item_10, info_item_6, info_item_7, info_item_11, info_item_18, info_item_19, info_item_5, info_item_17",255
+440,3,4,"info_item_1, info_item_1, info_item_2, info_item_11",112
+441,3,6,"info_item_9, info_item_11, info_item_10, info_item_7, info_item_19, info_item_18",147
+442,4,15,"info_item_9, info_item_7, info_item_7, info_item_7, info_item_3, info_item_7, info_item_11, info_item_10, info_item_18, info_item_19, info_item_17, info_item_9, info_item_12, info_item_8, info_item_20",264
+443,3,3,"info_item_1, info_item_7, info_item_3",181
+444,2,11,"info_item_2, info_item_11, info_item_17, info_item_3, info_item_6, info_item_19, info_item_12, info_item_6, info_item_10, info_item_14, info_item_2",152
+445,3,4,"info_item_19, info_item_15, info_item_11, info_item_7",95
+446,3,12,"info_item_7, info_item_11, info_item_19, info_item_1, info_item_13, info_item_15, info_item_17, info_item_18, info_item_19, info_item_20, info_item_5, info_item_7",157
+447,3,14,"info_item_3, info_item_7, info_item_5, info_item_1, info_item_9, info_item_11, info_item_15, info_item_13, info_item_14, info_item_16, info_item_17, info_item_18, info_item_19, info_item_20",165
+448,1,11,"info_item_19, info_item_18, info_item_16, info_item_16, info_item_13, info_item_17, info_item_5, info_item_6, info_item_1, info_item_4, info_item_16",190
+449,1,4,"info_item_9, info_item_9, info_item_13, info_item_17",143
+450,2,9,"info_item_9, info_item_5, info_item_18, info_item_17, info_item_19, info_item_6, info_item_2, info_item_10, info_item_14",153
+451,2,11,"info_item_3, info_item_7, info_item_19, info_item_11, info_item_10, info_item_18, info_item_6, info_item_14, info_item_15, info_item_1, info_item_5",160
+452,3,13,"info_item_8, info_item_18, info_item_17, info_item_19, info_item_20, info_item_9, info_item_15, info_item_5, info_item_7, info_item_8, info_item_3, info_item_1, info_item_15",214
+453,3,28,"info_item_1, info_item_2, info_item_3, info_item_4, info_item_5, info_item_6, info_item_7, info_item_8, info_item_9, info_item_10, info_item_11, info_item_12, info_item_13, info_item_14, info_item_15, info_item_16, info_item_19, info_item_17, info_item_18, info_item_20, info_item_11, info_item_12, info_item_20, info_item_16, info_item_7, info_item_3, info_item_4, info_item_8",179
+454,3,23,"info_item_15, info_item_5, info_item_5, info_item_5, info_item_5, info_item_7, info_item_7, info_item_5, info_item_5, info_item_5, info_item_5, info_item_5, info_item_5, info_item_5, info_item_5, info_item_5, info_item_13, info_item_15, info_item_11, info_item_20, info_item_6, info_item_4, info_item_4",175
+455,2,7,"info_item_6, info_item_7, info_item_12, info_item_8, info_item_9, info_item_5, info_item_6",144
+456,3,11,"info_item_5, info_item_3, info_item_11, info_item_16, info_item_11, info_item_19, info_item_12, info_item_5, info_item_15, info_item_20, info_item_8",199
+457,3,11,"info_item_3, info_item_5, info_item_7, info_item_8, info_item_11, info_item_10, info_item_14, info_item_15, info_item_16, info_item_18, info_item_19",181
+458,3,5,"info_item_3, info_item_5, info_item_12, info_item_14, info_item_17",228
+459,3,20,"info_item_2, info_item_3, info_item_7, info_item_11, info_item_9, info_item_1, info_item_5, info_item_8, info_item_6, info_item_19, info_item_20, info_item_8, info_item_4, info_item_18, info_item_17, info_item_19, info_item_10, info_item_11, info_item_9, info_item_12",233
+460,1,10,"info_item_2, info_item_1, info_item_3, info_item_5, info_item_6, info_item_9, info_item_9, info_item_14, info_item_18, info_item_17",251
+461,1,16,"info_item_9, info_item_5, info_item_1, info_item_13, info_item_17, info_item_3, info_item_11, info_item_10, info_item_6, info_item_18, info_item_14, info_item_7, info_item_3, info_item_11, info_item_16, info_item_15",215
+463,1,10,"info_item_1, info_item_7, info_item_9, info_item_6, info_item_13, info_item_14, info_item_15, info_item_9, info_item_3, info_item_9",131
+464,4,6,"info_item_11, info_item_10, info_item_18, info_item_12, info_item_8, info_item_20",189
+465,3,17,"info_item_10, info_item_18, info_item_2, info_item_6, info_item_1, info_item_5, info_item_9, info_item_13, info_item_17, info_item_15, info_item_16, info_item_14, info_item_3, info_item_7, info_item_11, info_item_19, info_item_4",225
+466,2,10,"info_item_1, info_item_2, info_item_3, info_item_6, info_item_10, info_item_14, info_item_18, info_item_19, info_item_7, info_item_11",125
+467,3,6,"info_item_3, info_item_6, info_item_7, info_item_11, info_item_15, info_item_19",113
+468,3,16,"info_item_5, info_item_1, info_item_18, info_item_18, info_item_6, info_item_4, info_item_3, info_item_7, info_item_7, info_item_11, info_item_19, info_item_19, info_item_17, info_item_18, info_item_20, info_item_20",203
+469,2,18,"info_item_5, info_item_6, info_item_1, info_item_2, info_item_9, info_item_10, info_item_13, info_item_14, info_item_15, info_item_16, info_item_17, info_item_18, info_item_19, info_item_19, info_item_11, info_item_7, info_item_10, info_item_9",148
+470,3,6,"info_item_3, info_item_5, info_item_9, info_item_19, info_item_7, info_item_12",122
+471,3,9,"info_item_9, info_item_9, info_item_1, info_item_13, info_item_13, info_item_17, info_item_6, info_item_7, info_item_15",273
+472,1,29,"info_item_5, info_item_9, info_item_13, info_item_6, info_item_10, info_item_7, info_item_11, info_item_8, info_item_12, info_item_18, info_item_17, info_item_19, info_item_20, info_item_11, info_item_15, info_item_3, info_item_7, info_item_2, info_item_6, info_item_10, info_item_18, info_item_2, info_item_17, info_item_14, info_item_1, info_item_5, info_item_9, info_item_13, info_item_17",245
+475,3,19,"info_item_5, info_item_6, info_item_7, info_item_9, info_item_10, info_item_11, info_item_12, info_item_13, info_item_14, info_item_15, info_item_16, info_item_5, info_item_17, info_item_19, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19",171
+476,2,16,"info_item_19, info_item_5, info_item_14, info_item_8, info_item_10, info_item_18, info_item_19, info_item_20, info_item_8, info_item_4, info_item_3, info_item_7, info_item_11, info_item_2, info_item_6, info_item_10",272
+479,3,13,"info_item_6, info_item_14, info_item_15, info_item_19, info_item_18, info_item_11, info_item_3, info_item_12, info_item_4, info_item_1, info_item_5, info_item_15, info_item_7",143
+480,3,16,"info_item_1, info_item_5, info_item_9, info_item_2, info_item_6, info_item_10, info_item_3, info_item_4, info_item_3, info_item_7, info_item_11, info_item_12, info_item_8, info_item_4, info_item_19, info_item_15",174
+481,3,5,"info_item_1, info_item_5, info_item_9, info_item_13, info_item_17",108
+483,3,4,"info_item_9, info_item_2, info_item_3, info_item_12",158
+484,3,30,"info_item_1, info_item_2, info_item_2, info_item_2, info_item_2, info_item_2, info_item_6, info_item_2, info_item_6, info_item_10, info_item_14, info_item_18, info_item_3, info_item_19, info_item_15, info_item_5, info_item_9, info_item_13, info_item_17, info_item_18, info_item_14, info_item_10, info_item_3, info_item_7, info_item_11, info_item_15, info_item_19, info_item_4, info_item_16, info_item_20",217
+485,2,2,"info_item_1, info_item_1",118
+486,3,8,"info_item_2, info_item_7, info_item_19, info_item_18, info_item_15, info_item_10, info_item_11, info_item_7",198
+487,2,8,"info_item_3, info_item_6, info_item_11, info_item_10, info_item_19, info_item_18, info_item_17, info_item_20",176
+490,3,13,"info_item_1, info_item_2, info_item_3, info_item_4, info_item_5, info_item_13, info_item_2, info_item_8, info_item_3, info_item_11, info_item_15, info_item_19, info_item_10",145
+491,2,12,"info_item_1, info_item_5, info_item_9, info_item_13, info_item_7, info_item_11, info_item_14, info_item_18, info_item_6, info_item_9, info_item_20, info_item_16",268
+492,2,15,"info_item_1, info_item_1, info_item_6, info_item_7, info_item_17, info_item_18, info_item_19, info_item_19, info_item_20, info_item_7, info_item_12, info_item_3, info_item_11, info_item_12, info_item_9",211
+493,3,5,"info_item_19, info_item_7, info_item_7, info_item_9, info_item_7",93
+494,1,33,"info_item_15, info_item_11, info_item_10, info_item_14, info_item_13, info_item_9, info_item_1, info_item_3, info_item_4, info_item_5, info_item_7, info_item_19, info_item_17, info_item_9, info_item_5, info_item_4, info_item_8, info_item_3, info_item_7, info_item_11, info_item_15, info_item_10, info_item_10, info_item_6, info_item_6, info_item_11, info_item_20, info_item_17, info_item_10, info_item_10, info_item_10, info_item_10, info_item_19",303
+496,3,19,"info_item_5, info_item_7, info_item_3, info_item_11, info_item_9, info_item_10, info_item_6, info_item_2, info_item_18, info_item_9, info_item_1, info_item_2, info_item_11, info_item_19, info_item_17, info_item_4, info_item_8, info_item_12, info_item_20",245
+497,3,8,"info_item_2, info_item_5, info_item_5, info_item_15, info_item_3, info_item_10, info_item_18, info_item_19",143
+498,3,11,"info_item_1, info_item_1, info_item_1, info_item_5, info_item_10, info_item_11, info_item_16, info_item_18, info_item_19, info_item_7, info_item_9",123
+499,3,3,"info_item_7, info_item_3, info_item_18",127
+500,3,11,"info_item_18, info_item_19, info_item_7, info_item_6, info_item_4, info_item_13, info_item_14, info_item_15, info_item_16, info_item_3, info_item_7",185
