@@ -1,6 +1,6 @@
 # XDBA - eXplainable Deep Behavior Analysis
 This repository contains the code and datasets for the implementation of the method proposed in **Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks**, authored by Eldad Tal-Shir, Alex Mintz and Michael Cohen.
-The code is currently available as a Python interactive notebook (XDBA.ipynb), with example usage replicating the analysis depicted in the manuscript (data folder contains the main dataset (dataset.csv) and supplementary dataset (featureframe.csv) used in the paper).
+The code is currently available as a Jupyter Notebook (XDBA.ipynb), with example usage replicating the analysis depicted in the manuscript (data folder contains the main dataset (dataset.csv) and supplementary dataset (featureframe.csv) used in the paper).
 
 # Method
 XDBA preprocesses individual-level behavioral data by transforming it into computer-vision compatible visualizations, and interprets predictions on these data by extending gradient-based, propagation-based and permutation-based interpretability approaches to these data.
