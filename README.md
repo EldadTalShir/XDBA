@@ -12,6 +12,6 @@ _Interpretation:_ In the stationary implementation, local explanations are extra
 
 ![XDBA Flowchart](https://github.com/EldadTalShir/XDBA/blob/main/misc/XDBA_flowchart.png?raw=true "Title")
 
-# Reference
+# Citation
 Eldad Tal-Shir, Alex Mintz, Michael Cohen
 _Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks_.
