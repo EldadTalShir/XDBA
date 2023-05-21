@@ -1,7 +1,7 @@
 # XDBA - eXplainable Deep Behavior Analysis
 This repository contains the code and datasets for the implementation of the method proposed in **Interpretable Prediction from Behavioral Data Using Convolutional Neural Networks**, authored by Eldad Tal-Shir, Alex Mintz and Michael Cohen.
 
-The code is currently available as a Jupyter Notebook ([XDBA.ipynb](https://github.com/EldadTalShir/XDBA/blob/main/XDBA.ipynb)), with example usage replicating the analysis depicted in the manuscript (data folder contains the main dataset ([dataset.csv](https://github.com/EldadTalShir/XDBA/blob/main/data/dataset.csv)) and supplementary dataset ([featureframe.csv](https://github.com/EldadTalShir/XDBA/blob/main/data/featureframe.csv)) used in the paper). To render the notebook in full, paste the notebook's URL in [nbviewer](https://nbviewer.jupyter.org/).
+The code is currently available as a Jupyter Notebook ([XDBA.ipynb](https://github.com/EldadTalShir/XDBA/blob/main/XDBA.ipynb)), with example usage [replicating](https://github.com/EldadTalShir/XDBA/blob/main/misc/FAQ.md) the analysis depicted in the manuscript (data folder contains the main dataset ([dataset.csv](https://github.com/EldadTalShir/XDBA/blob/main/data/dataset.csv)) and supplementary dataset ([featureframe.csv](https://github.com/EldadTalShir/XDBA/blob/main/data/featureframe.csv)) used in the paper). To render the notebook in full, paste the notebook's URL in [nbviewer](https://nbviewer.jupyter.org/).
 
 ## Method
 XDBA preprocesses individual-level behavioral data by transforming it into computer-vision compatible visualizations, and interprets predictions on these data by extending gradient-based, propagation-based and permutation-based interpretability approaches to these data.
